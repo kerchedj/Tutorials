@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cs11dotnet7", "cs11dotnet7", "{76F97B95-9C2A-4FFF-946C-72E698F1ECAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter01-vscode", "Chapter01-vscode", "{0FF24EC8-C262-4838-B884-BF66196864C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloCS", "cs11dotnet7\Chapter01-vscode\HelloCS\HelloCS.csproj", "{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FF24EC8-C262-4838-B884-BF66196864C7} = {76F97B95-9C2A-4FFF-946C-72E698F1ECAF}
+		{0E52B6CC-66D7-48E3-8F05-6764DDD92AC2} = {0FF24EC8-C262-4838-B884-BF66196864C7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6DBEAB2-F6D5-4F89-A647-ECC6443EA1C7}
+	EndGlobalSection
+EndGlobal
